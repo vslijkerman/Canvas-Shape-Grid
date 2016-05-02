@@ -1,0 +1,16 @@
+body {
+  margin: 0;
+  padding: 0;
+  background: linear-gradient(to bottom, #1e5799 0%,#207cca 50%,#207cca 50%,#7db9e8 100%);
+}
+
+.wrapper {
+  width: 1200px;
+  margin: 0 auto;
+  //padding: 10px;
+}
+
+.canvas {
+  /*width: 88px;
+  height: 130px;*/
+}
