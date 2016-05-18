@@ -2,7 +2,7 @@
 Object oriented canvas grid to easily place dots and rectangles on an HTML5 canvas grid.
 
 ## Usage
-Open the site.js file and go to line 73 where it says "Place your objects below.". There are two code examples given here about the syntax of creating a new shape.
+Open the site.js file and go to line 72 where it says "Place your objects below.". There are two code examples given here about the syntax of creating a new shape.
 
 ### Dot
 ```javascript
