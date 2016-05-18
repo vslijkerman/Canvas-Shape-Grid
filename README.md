@@ -6,12 +6,12 @@ Open the site.js file and go to line 73 where it says "Place your objects below.
 
 ### Dot
 ```javascript
-dot = new Dot(0, 0);
-dots.push(dot);
+shape = new Dot(0, 0);
+shapes.push(shape);
 ```
 
 ### Rectangle
 ```javascript
-rectangle = new Rect(0, 0);
-rectangles.push(rectangle);
+shape = new Rect(0, 0);
+shapes.push(shape);
 ```
